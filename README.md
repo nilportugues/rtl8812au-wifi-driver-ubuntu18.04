@@ -22,3 +22,8 @@ sudo apt-get remove linux-image-4.<whatever>
 If not, config your GRUB file to enter the OS using the kernel 4.8.1. When done, reboot.
 
 ## Step 2 - Install rtl8812au
+
+```
+cd Linux
+bash install.sh
+```
