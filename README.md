@@ -1,4 +1,9 @@
-# rtl8812au driver for Ubuntu 18.04 LTS and probably above
+# rtl8812au driver for Ubuntu 18.04 LTS and above
+
+## Works for the following distros:
+
+- Ubuntu 17.x
+- Ubuntu 18.04 LTS
 
 ## Step 1 - Downgrade Kernel.
 
