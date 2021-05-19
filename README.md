@@ -1,5 +1,8 @@
 # rtl8812au driver for Ubuntu 18.04 LTS and above
 
+## For Ubuntu 20
+See: https://www.lukesy.net/post/installing-rtl8812-usb-wifi-dongle-on-ubuntu-18-and-20-lts/
+
 ## Works for the following distros:
 
 - Ubuntu 17.x
